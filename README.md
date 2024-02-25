@@ -1,6 +1,11 @@
 # CodeLens
 
+## Demo
+
+https://github.com/Ajitesh27/CodeLens/assets/51512010/c786cecb-d875-4267-a1a1-c489486471c5
+
 ## Inspiration
+
 CodeLens was inspired by the need for a comprehensive tool that not only executes Linux commands and programs but also provides valuable insights, quick error fixes, and assistance for any project. The vision behind CodeLens is to simplify the command-line experience and enhance productivity by offering a seamless way to address errors, especially for developers with little prior development experience.
 
 ## What it does
